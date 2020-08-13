@@ -29,3 +29,10 @@ spring:
     console:
       enabled: true
 
+
+property:
+  test:
+    name: property depth test
+propertyTest: test
+propertyTestList: a,b,c
+
