@@ -1,5 +1,0 @@
-rootProject.name = 'community'
-include 'community-web'
-include 'untitled'
-include 'community-domain'
-
